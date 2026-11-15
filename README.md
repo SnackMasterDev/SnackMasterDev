@@ -98,8 +98,12 @@ Experiencia demostrada asumiendo roles de **liderazgo técnico de frontend**, **
 
 ### 📊 Actividad en GitHub
 
-<img src="https://github-stats-extended.vercel.app/api?username=SnackMasterDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=SnackMasterDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="GitHub Stats" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SnackMasterDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=SnackMasterDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
