@@ -24,7 +24,7 @@ Experiencia demostrada asumiendo roles de **liderazgo técnico de frontend**, **
 
 | Categoría | Tecnologías & Herramientas |
 | :--- | :--- |
-| **Lenguajes** | `TypeScript` `JavaScript (ES6+)` `SQL` `HTML5` `CSS3` `Python (Básico)` |
+| **Lenguajes** | `TypeScript` `JavaScript (ES6+)` `SQL` `HTML5` `CSS3` |
 | **Frontend** | `React 18/19` `Next.js 16 (App Router)` `Vite` `Tailwind CSS v4` `shadcn/ui` `Radix UI` `Recharts` `HTML5 Canvas API` `Web Audio API` |
 | **Backend & APIs** | `Node.js` `Express` `REST APIs` `OpenAPI 3.0 (Swagger)` `Docker Compose` |
 | **Bases de Datos** | `PostgreSQL 16` `TimescaleDB (Series Temporales)` |
@@ -98,8 +98,8 @@ Experiencia demostrada asumiendo roles de **liderazgo técnico de frontend**, **
 
 ### 📊 Actividad en GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=SnackMasterDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnackMasterDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=SnackMasterDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SnackMasterDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
